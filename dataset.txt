@@ -1,0 +1,3 @@
+onoma	epitheto	hlikia	email
+nekos	geron	22	negoreron@
+renia	kar	20	reniakar@
